@@ -41,8 +41,8 @@ output = (
       f"Total Months: {total_months}\n"
       f"Total: ${total_revenue}\n"
       f"Average Change: ${revenue_avg}\n"
-      f"Greates Increase in Profits: {greatest_increase[0]} (${greatest_increase[1]})\n"
-      f"Greates Decrease in Profits: {greatest_decrease[0]} (${greatest_decrease[1]})\n"
+      f"Greatest Increase in Profits: {greatest_increase[0]} (${greatest_increase[1]})\n"
+      f"Greatest Decrease in Profits: {greatest_decrease[0]} (${greatest_decrease[1]})\n"
 )
 
 print(output)
